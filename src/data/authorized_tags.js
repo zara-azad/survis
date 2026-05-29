@@ -1,5 +1,11 @@
 const userDefinedAuthorizedTags = {
-	"type:system": {
-		"description": "paper describing a system"
+	"type:foundational": {
+		"description": "foundational encoder-decoder architecture"
+	},
+	"type:variant": {
+		"description": "architectural variant or improvement of U-Net"
+	},
+	"type:application": {
+		"description": "automation, survey, or clinical application"
 	}
 }
